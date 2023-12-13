@@ -4,13 +4,13 @@
 
 https://cs50.harvard.edu/x/2023/labs/2/
 
-Submited:<br>
+Submitted:<br>
 [scrabble.c](scrabble.c)<br>
 
 ## Problem Set 2:
 
 https://cs50.harvard.edu/x/2023/psets/2/
 
-Submited:<br>
+Submitted:<br>
 [readability.c](readability.c)<br>
 [caesar.c](caesar.c)<br>
